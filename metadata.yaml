@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1625
     wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41896#Dave-Fearless-and-the-Cave-of-Mysteryor-Adrift-on-the-Pacific
 gutenberg_issued: '2013-01-21'
 gutenberg_type: Text
 identifiers:
