@@ -1,0 +1,30 @@
+_repo: Dave-Fearless-and-the-Cave-of-Mysteryor-Adrift-on-the-Pacific_41896
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41896-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Rockwood, Roy
+    gutenberg_agent_id: '1625'
+    url: http://www.gutenberg.org/2009/agents/1625
+    wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
+description: ''
+gutenberg_issued: '2013-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+- !lcsh 'Pacific Ocean -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Adventure stories'
+title: Dave Fearless and the Cave of Mystery; or, Adrift on the Pacific
+url: http://www.gutenberg.org/ebooks/41896
